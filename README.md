@@ -1,5 +1,5 @@
 ## Demo kinoman
 
-This is a demo project
+This is a demo project.
 
-Demo kinoman stores and display film/series info using taxonomies
+Demo kinoman stores and displays movies (films/series) info using taxonomies.
