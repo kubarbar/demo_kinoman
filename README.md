@@ -1,2 +1,5 @@
-# demo_kinoman
-@Barbarus TODO: input here some description about project
+## Demo kinoman
+
+This is a demo project
+
+Demo kinoman stores and display film/series info using taxonomies
